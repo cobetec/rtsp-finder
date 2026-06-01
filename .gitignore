@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.sdp
+raw_*.bin
